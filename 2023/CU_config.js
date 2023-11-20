@@ -1,4 +1,4 @@
-var config_data = `
+var config_data = `{}
 {
   "dataFormat": "kvs",
   "title": "Scouting PASS 2023",
